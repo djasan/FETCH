@@ -1,0 +1,16 @@
+{
+    "menuentries": [
+      {
+        "entry": "Article",
+        "url": "http://example1.com"
+      },
+      {
+        "entry": "Home",
+        "url": "http://example2.com"
+      },
+      {
+        "entry": "About",
+        "url": "http://example3.com"
+      }
+    ]
+  }

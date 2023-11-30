@@ -1,0 +1,1805 @@
+{
+    "created": "2023-11-30T14:02:31.615Z",
+    "count": 502,
+    "offset": 0,
+    "releases": [
+        {
+            "id": "29833207-43cb-4833-b9b7-fc940d657483",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 20,
+            "title": "Gainsbourg",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "74d51751-0734-41cb-a46f-353462b209e3",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2011",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2011",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602527554419",
+            "label-info": [
+                {
+                    "catalog-number": "2755441",
+                    "label": {
+                        "id": "c9b33d46-1b0f-4721-bf64-1a6b3a093345",
+                        "name": "Universal Music France"
+                    }
+                },
+                {
+                    "catalog-number": "2755441",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 271,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 15
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 10
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 13
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 20
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 9
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 14
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 10
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 15
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 13
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 14
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 14
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 19
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 21
+                }
+            ]
+        },
+        {
+            "id": "6cf8380b-3585-435b-acb0-7b5928fa86b8",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 3,
+            "title": "Gainsbourg",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "4cfb7ba6-e217-4e78-8075-380a39adea64",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "1983",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1983",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "label-info": [
+                {
+                    "catalog-number": "6993013",
+                    "label": {
+                        "id": "513bbb57-d009-4f90-95d0-ab9b3bc37df4",
+                        "name": "Impact"
+                    }
+                }
+            ],
+            "track-count": 36,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "ce0fec76-8a4f-4ca5-961d-9f0171b6bc05",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Gainsbourg",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "joinphrase": ", ",
+                    "name": "Brussels Jazz Orchestra",
+                    "artist": {
+                        "id": "1ef4c122-0417-4e4c-89b5-776e06aa686f",
+                        "name": "Brussels Jazz Orchestra",
+                        "sort-name": "Brussels Jazz Orchestra"
+                    }
+                },
+                {
+                    "name": "Camille Bertault",
+                    "artist": {
+                        "id": "3f1cc79c-8bdb-463d-a0cf-c3861fdeb0de",
+                        "name": "Camille Bertault",
+                        "sort-name": "Bertault, Camille"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "07229bf0-d39e-483a-bbdf-10ac06d209b8",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg",
+                "primary-type": "Album"
+            },
+            "date": "2022-11-18",
+            "country": "BE",
+            "release-events": [
+                {
+                    "date": "2022-11-18",
+                    "area": {
+                        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                        "name": "Belgium",
+                        "sort-name": "Belgium",
+                        "iso-3166-1-codes": [
+                            "BE"
+                        ]
+                    }
+                }
+            ],
+            "label-info": [
+                {
+                    "label": {
+                        "id": "157afde4-4bf5-4039-8ad2-5a15acc85176",
+                        "name": "[no label]"
+                    }
+                }
+            ],
+            "track-count": 9,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 9
+                }
+            ]
+        },
+        {
+            "id": "9d051afb-68dd-468e-921c-b6488e2da8e7",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Gainsbourg",
+            "status": "Official",
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "ee214526-b4dc-4026-85b9-fb5a1a0183e4",
+                "title": "Gainsbourg",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "barcode": "3596972651922",
+            "label-info": [
+                {
+                    "label": {
+                        "id": "e5468dd9-dd68-43a8-982a-0b1a186748a6",
+                        "name": "Wagram Music S.A."
+                    }
+                }
+            ],
+            "track-count": 20,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 20
+                }
+            ]
+        },
+        {
+            "id": "40ca2aac-25c9-4d2a-bcc0-bdd943b953ba",
+            "score": 100,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+            "count": 1,
+            "title": "Gainsbourg",
+            "status": "Official",
+            "packaging": "Digipak",
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "581e5982-0da8-499b-a64d-74c840de67f6",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2011",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2011",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "3596972651922",
+            "label-info": [
+                {
+                    "catalog-number": "3243782",
+                    "label": {
+                        "id": "e5468dd9-dd68-43a8-982a-0b1a186748a6",
+                        "name": "Wagram Music S.A."
+                    }
+                }
+            ],
+            "track-count": 20,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 20
+                }
+            ]
+        },
+        {
+            "id": "de61c2d5-2b88-4d33-8123-61a7fa5cb0fa",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+            "count": 1,
+            "title": "Serge Gainsbourg",
+            "status": "Official",
+            "packaging": "Cardboard/Paper Sleeve",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "86efe4e8-6f9f-42cf-aa80-ab6929d838dc",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Serge Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2018-06-04",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2018-06-04",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "3596973560162",
+            "label-info": [
+                {
+                    "catalog-number": "3356016",
+                    "label": {
+                        "id": "8387a032-b837-4bbf-b6e5-99ad9f7a0bdd",
+                        "name": "Wagram Music"
+                    }
+                }
+            ],
+            "track-count": 18,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 18
+                }
+            ]
+        },
+        {
+            "id": "47727db7-4ddf-451f-aed5-e4b458b2d102",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 2,
+            "title": "Gainsbourg… Forever",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "98a96673-5c9b-33f6-84a7-2e46b12c4226",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg… Forever",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2001-02-27",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2001-02-27",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498310052",
+            "asin": "B000056TL0",
+            "label-info": [
+                {
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 43,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 2,
+                    "track-count": 25
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 2,
+                    "track-count": 18
+                }
+            ]
+        },
+        {
+            "id": "2e25c27c-bcfa-47f1-bc86-e3277ed02dff",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Gainsbourg Percussions",
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "34f7ada7-dd8a-3b97-8d5c-0d970095471d",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg Percussions",
+                "primary-type": "Album"
+            },
+            "date": "2011",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2011",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "label-info": [
+                {
+                    "catalog-number": "277 163-2",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 12,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "41c34d11-4d82-4568-9bac-9e4eaeb2ab48",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "c1668fc7-8944-4a00-bc3e-46e8d861d211",
+            "count": 17,
+            "title": "Gainsbourg… Forever",
+            "status": "Official",
+            "packaging": "Box",
+            "text-representation": {
+                "language": "mul",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "98a96673-5c9b-33f6-84a7-2e46b12c4226",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg… Forever",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2003",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2003",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "602498098967",
+            "label-info": [
+                {
+                    "catalog-number": "980989-6",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 211,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 14
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 13
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 10
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 23
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 18
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 7
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 10
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 9
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 13
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 12
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 9
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 10
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 15
+                }
+            ]
+        },
+        {
+            "id": "ad50f147-c96e-409d-97cd-76af8b3d70a3",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 2,
+            "title": "Gainsbourg… Forever",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "98a96673-5c9b-33f6-84a7-2e46b12c4226",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg… Forever",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2001",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2001",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "731454856324",
+            "label-info": [
+                {
+                    "catalog-number": "548563-2",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 43,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 25
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 18
+                }
+            ]
+        },
+        {
+            "id": "8ccf625c-d78a-3a4f-bb42-d6963c0cf111",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+            "count": 1,
+            "title": "Gainsbourg Percussions",
+            "status": "Official",
+            "packaging": "Digipak",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "34f7ada7-dd8a-3b97-8d5c-0d970095471d",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg Percussions",
+                "primary-type": "Album"
+            },
+            "date": "2001",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2001",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "731454842624",
+            "asin": "B000051YED",
+            "label-info": [
+                {
+                    "catalog-number": "548 426-2",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 12,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 2,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "d8ebb2fd-dc63-4c33-9bf4-47a32377fd09",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Serge Gainsbourg",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "f8f81b37-70fa-42d3-afa8-c27c23bfbee3",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Serge Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2011",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2011",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "5052498533527",
+            "asin": "B004YESLBI",
+            "label-info": [
+                {
+                    "catalog-number": "5249853352",
+                    "label": {
+                        "id": "50c60cf9-cecb-4e30-a6e0-e8b64434627b",
+                        "name": "Warner Music France"
+                    }
+                }
+            ],
+            "track-count": 23,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 23
+                }
+            ]
+        },
+        {
+            "id": "66ecb8a6-2aa0-48b1-98ee-559ede5aac14",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+            "count": 1,
+            "title": "Gainsbourg Percussions",
+            "status": "Official",
+            "packaging": "Cardboard/Paper Sleeve",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "34f7ada7-dd8a-3b97-8d5c-0d970095471d",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg Percussions",
+                "primary-type": "Album"
+            },
+            "date": "1964-10-26",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1964-10-26",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "label-info": [
+                {
+                    "catalog-number": "77 842 L",
+                    "label": {
+                        "id": "6d38d6d2-bea8-46cf-b48e-a6195fd85f12",
+                        "name": "Philips"
+                    }
+                }
+            ],
+            "track-count": 12,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 12
+                }
+            ]
+        },
+        {
+            "id": "cb0b1d87-aa3b-4670-8d04-b2cb3b91744e",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Serge Gainsbourg",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "d02fb207-2872-3c15-bf1e-3ba711a6cfc8",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Serge Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2000-10",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2000-10",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "731456275727",
+            "asin": "B00004VT49",
+            "label-info": [
+                {
+                    "catalog-number": "562 757-2",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 24,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 24
+                }
+            ]
+        },
+        {
+            "id": "589d7393-01ab-4f53-aeff-77af7052ab3d",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 2,
+            "title": "Serge Gainsbourg",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "700377d9-9d39-3e79-bd8c-38b1fd2a09af",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Serge Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "1999",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1999",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "042282498724",
+            "asin": "B0000084D1",
+            "label-info": [
+                {
+                    "catalog-number": "824 987-2",
+                    "label": {
+                        "id": "13a464dc-b9fd-4d16-a4f4-d4316f6a46c7",
+                        "name": "Universal Music"
+                    }
+                }
+            ],
+            "track-count": 36,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 18
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 18
+                }
+            ]
+        },
+        {
+            "id": "c5a6192c-cbb3-3396-897a-93144f23830e",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 2,
+            "title": "Serge Gainsbourg",
+            "status": "Official",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "700377d9-9d39-3e79-bd8c-38b1fd2a09af",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Serge Gainsbourg",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "1988",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1988",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "042282498724",
+            "label-info": [
+                {
+                    "catalog-number": "824 987-2",
+                    "label": {
+                        "id": "1fc9f71a-8d08-4c02-ab13-fa752750ae44",
+                        "name": "PolyGram"
+                    }
+                }
+            ],
+            "track-count": 36,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 18
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 18
+                }
+            ]
+        },
+        {
+            "id": "85c174dc-1cb3-4a2b-bde4-ab4d38c0a10b",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Mr. Gainsbourg",
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "6aa00b11-96b6-4374-b3df-7259ad0b9226",
+                "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "title": "Mr. Gainsbourg",
+                "primary-type": "EP"
+            },
+            "date": "1967-07-08",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1967-07-08",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "label-info": [
+                {
+                    "catalog-number": "437.355 BE",
+                    "label": {
+                        "id": "6d38d6d2-bea8-46cf-b48e-a6195fd85f12",
+                        "name": "Philips"
+                    }
+                }
+            ],
+            "track-count": 4,
+            "media": [
+                {
+                    "format": "7\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 4
+                }
+            ]
+        },
+        {
+            "id": "6842e88b-c949-4fa7-a3f9-d3d437f6e772",
+            "score": 86,
+            "count": 1,
+            "title": "Joue Gainsbourg",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Alain Brunet Quartet",
+                    "artist": {
+                        "id": "2f5c230f-7869-42d1-8539-be70d23d3a25",
+                        "name": "Alain Brunet Quartet",
+                        "sort-name": "Alain Brunet Quartet"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "7cce4435-9144-33a4-bf78-cfe041697adb",
+                "title": "Joue Gainsbourg"
+            },
+            "track-count": 9,
+            "media": [
+                {
+                    "disc-count": 0,
+                    "track-count": 9
+                }
+            ]
+        },
+        {
+            "id": "4bdeec3f-24c3-46f0-ba36-3c9de9ad852b",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+            "count": 1,
+            "title": "Serge Gainsbourg",
+            "status": "Official",
+            "disambiguation": "Master Serie, black, horizontal",
+            "packaging": "Jewel Case",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "cf8ce4db-c3f8-3567-a8f1-970d8ea6c4ba",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Serge Gainsbourg, Vol. 1",
+                "disambiguation": "Polygram version",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "1987",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "1987",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "042283223028",
+            "label-info": [
+                {
+                    "catalog-number": "832 230-2",
+                    "label": {
+                        "id": "9e3e181b-98b2-4bdb-8d62-38321912c45d",
+                        "name": "PolyGram Distribution"
+                    }
+                }
+            ],
+            "track-count": 16,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 1,
+                    "track-count": 16
+                }
+            ]
+        },
+        {
+            "id": "d966d49f-1bea-4ce5-906c-621d32ea1c49",
+            "score": 86,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Gainsbourg Gainbegiratuz",
+            "status": "Official",
+            "text-representation": {
+                "language": "mul",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Various Artists",
+                    "artist": {
+                        "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                        "name": "Various Artists",
+                        "sort-name": "Various Artists",
+                        "disambiguation": "add compilations to this artist"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "47188e93-2144-360b-9d5c-270b74a24495",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg Gainbegiratuz",
+                "primary-type": "Album"
+            },
+            "date": "2008",
+            "country": "ES",
+            "release-events": [
+                {
+                    "date": "2008",
+                    "area": {
+                        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+                        "name": "Spain",
+                        "sort-name": "Spain",
+                        "iso-3166-1-codes": [
+                            "ES"
+                        ]
+                    }
+                }
+            ],
+            "track-count": 15,
+            "media": [
+                {
+                    "disc-count": 0,
+                    "track-count": 15
+                }
+            ]
+        },
+        {
+            "id": "b95ea016-8393-46d4-8052-844d92d09586",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "count": 1,
+            "title": "Le Génie, Gainsbourg",
+            "status": "Official",
+            "packaging": "None",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Bon Entendeur",
+                    "artist": {
+                        "id": "c6217a1f-da06-4760-aeef-3dc7aea999dc",
+                        "name": "Bon Entendeur",
+                        "sort-name": "Bon Entendeur"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "d46cb84c-146d-4219-80f9-5d2664904c0d",
+                "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+                "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+                "title": "Le Génie, Gainsbourg",
+                "primary-type": "Other",
+                "secondary-types": [
+                    "Mixtape/Street"
+                ],
+                "secondary-type-ids": [
+                    "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+                ]
+            },
+            "date": "2014-03-28",
+            "country": "XW",
+            "release-events": [
+                {
+                    "date": "2014-03-28",
+                    "area": {
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                        "name": "[Worldwide]",
+                        "sort-name": "[Worldwide]",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "",
+            "track-count": 1,
+            "media": [
+                {
+                    "format": "Digital Media",
+                    "disc-count": 0,
+                    "track-count": 1
+                }
+            ]
+        },
+        {
+            "id": "268e7114-f8fc-491b-aab6-3d31f6f6c21f",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Electronica Gainsbourg M1",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "15719719-7d3c-4c7d-87b1-2fac88413ed0",
+                "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "title": "Electronica Gainsbourg M1",
+                "primary-type": "EP",
+                "secondary-types": [
+                    "Remix"
+                ],
+                "secondary-type-ids": [
+                    "0c60f497-ff81-3818-befd-abfc84a4858b"
+                ]
+            },
+            "date": "2001",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2001",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "731457285718",
+            "label-info": [
+                {
+                    "catalog-number": "572 857-1",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 4,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 4
+                }
+            ]
+        },
+        {
+            "id": "ce617cda-d599-4b56-bde3-94441b34698c",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Electronica Gainsbourg M2",
+            "status": "Official",
+            "text-representation": {
+                "language": "fra",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "3404ed39-982c-47e3-a15f-85d9577f1458",
+                "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "title": "Electronica Gainsbourg M2",
+                "primary-type": "EP",
+                "secondary-types": [
+                    "Remix"
+                ],
+                "secondary-type-ids": [
+                    "0c60f497-ff81-3818-befd-abfc84a4858b"
+                ]
+            },
+            "date": "2001",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2001",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "731457285817",
+            "label-info": [
+                {
+                    "catalog-number": "572 858-1",
+                    "label": {
+                        "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+                        "name": "Mercury Records"
+                    }
+                }
+            ],
+            "track-count": 4,
+            "media": [
+                {
+                    "format": "12\" Vinyl",
+                    "disc-count": 0,
+                    "track-count": 4
+                }
+            ]
+        },
+        {
+            "id": "c7b04435-1770-4b55-ad61-ba403bcc2b7b",
+            "score": 75,
+            "count": 3,
+            "title": "Gainsbourg In Dub",
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "b5b442d9-91ef-482d-b275-ddbb3a1d14f3",
+                "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Gainsbourg In Dub",
+                "primary-type": "Album"
+            },
+            "track-count": 54,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 19
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 17
+                },
+                {
+                    "format": "CD",
+                    "disc-count": 0,
+                    "track-count": 18
+                }
+            ]
+        },
+        {
+            "id": "781c5139-d5df-34de-812a-7cc9eb5e39e3",
+            "score": 75,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "count": 1,
+            "title": "Gainsbourg, Vol. 2",
+            "status": "Official",
+            "disambiguation": "Master Serie, white on red underscore",
+            "text-representation": {
+                "language": "mul",
+                "script": "Latn"
+            },
+            "artist-credit": [
+                {
+                    "name": "Serge Gainsbourg",
+                    "artist": {
+                        "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+                        "name": "Serge Gainsbourg",
+                        "sort-name": "Gainsbourg, Serge"
+                    }
+                }
+            ],
+            "release-group": {
+                "id": "0de0db6b-e1c1-375f-b654-7530cd30b710",
+                "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "title": "Serge Gainsbourg, Vol. 2",
+                "disambiguation": "Polygram version",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            "date": "2003",
+            "country": "FR",
+            "release-events": [
+                {
+                    "date": "2003",
+                    "area": {
+                        "id": "08310658-51eb-3801-80de-5a0739207115",
+                        "name": "France",
+                        "sort-name": "France",
+                        "iso-3166-1-codes": [
+                            "FR"
+                        ]
+                    }
+                }
+            ],
+            "barcode": "042283422728",
+            "asin": "B000006R7X",
+            "label-info": [
+                {
+                    "catalog-number": "834 227-2",
+                    "label": {
+                        "id": "1391bdc7-a22c-48a4-a5fb-e7b8ef6ce143",
+                        "name": "Universal"
+                    }
+                }
+            ],
+            "track-count": 16,
+            "media": [
+                {
+                    "format": "CD",
+                    "disc-count": 4,
+                    "track-count": 16
+                }
+            ]
+        }
+    ]
+}
